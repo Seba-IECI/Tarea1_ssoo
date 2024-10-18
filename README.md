@@ -22,7 +22,7 @@ clean:
 	rm -f carrera carrera.o
  
  7. guardar con nombre: Makefile
- 8. ejecutar comando: make
+ 8. ejecutar comando: "make"
  9. ./carrera 100 3
- 10. ejecutar comando: htop ,para ver las hebras
+ 10. ejecutar comando: "htop" ,para ver las hebras
 
