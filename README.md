@@ -1,1 +1,2 @@
-# Tarea1_ssoo
+# Tarea 1 de sistemas operativos
+Tema: Programacion multihebras
